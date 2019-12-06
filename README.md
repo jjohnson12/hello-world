@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello humans!
+
+JJ here, I like coffee and more coffee!
+I also like tacos!
